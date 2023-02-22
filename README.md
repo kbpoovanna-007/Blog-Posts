@@ -1,8 +1,9 @@
+
 <style>
-  .header{
+  #header{
    margin-left:3em;
   }
-  </style>
+</style>
 
 <h1>Technical Blog Posts</h1>
 
