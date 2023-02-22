@@ -1,6 +1,6 @@
 <h1>Technical Blog Posts</h1>
 
-<h2>In this repository, you'll discover a collection of my highly informative and time-saving blog posts that cover a wide range of topics.</h2>
+<h5>In this repository, you'll discover a collection of my highly informative and time-saving blog posts that cover a wide range of topics.</h5>
 
 <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
